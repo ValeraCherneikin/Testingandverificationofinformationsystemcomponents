@@ -1,0 +1,16 @@
+
+F:\algoritm_ТВИкс\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\algoritm_ТВИкс\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\algoritm_ТВИкс\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\algoritm_ТВИкс\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\algoritm_ТВИкс\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\algoritm_ТВИкс\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\algoritm_ТВИкс\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\algoritm_ТВИкс\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\algoritm_ТВИкс\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\algoritm_ТВИкс\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\algoritm_ТВИкс\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\algoritm_ТВИкс\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\algoritm_ТВИкс\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\algoritm_ТВИкс\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\algoritm_ТВИкс\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
